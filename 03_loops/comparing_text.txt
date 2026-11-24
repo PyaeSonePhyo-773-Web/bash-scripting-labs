@@ -1,0 +1,7 @@
+| Operator | Meaning |
+|----------------------------------|
+| `=`      | Strings are equal     |
+| `!=`     | Strings are not equal |
+| `-z`     | String is empty       |
+| `-n`     | String is not empty   |
+|----------------------------------|
